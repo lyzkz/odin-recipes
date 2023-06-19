@@ -1,0 +1,16 @@
+* {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    color: cadetblue;
+    text-align: center;
+}
+
+a {
+    color: slateblue;
+    margin: 20px;
+    border: solid 20px;
+    border-color: rgb(214, 203, 57);
+    border-radius: 10px 10px 10px 10px;
+}
