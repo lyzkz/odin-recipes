@@ -8,9 +8,11 @@ h1 {
 }
 
 a {
+    display: block;
     color: slateblue;
     margin: 20px;
-    border: solid 20px;
+    border: solid 2px;
     border-color: rgb(214, 203, 57);
     border-radius: 10px 10px 10px 10px;
+    padding: 30px;
 }
